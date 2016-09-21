@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>bone.bmp</Source>
+      <Name>bone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Users\Tim\Documents\Visual Studio 2010\Projects\TomatoJoe\TomatoJoe\TomatoJoe\bin\x86\Debug\Content\bone.xnb</Output>
+      <Time>2016-09-20T19:25:07.3307318-05:00</Time>
+    </Item>
+    <Item>
+      <Source>boobley.bmp</Source>
+      <Name>boobley</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Users\Tim\Documents\Visual Studio 2010\Projects\TomatoJoe\TomatoJoe\TomatoJoe\bin\x86\Debug\Content\boobley.xnb</Output>
+      <Time>2016-09-20T19:25:07.3317318-05:00</Time>
+    </Item>
+    <Item>
+      <Source>frowney.bmp</Source>
+      <Name>frowney</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Users\Tim\Documents\Visual Studio 2010\Projects\TomatoJoe\TomatoJoe\TomatoJoe\bin\x86\Debug\Content\frowney.xnb</Output>
+      <Time>2016-09-20T19:25:07.3327319-05:00</Time>
+    </Item>
+    <Item>
+      <Source>gobbler.bmp</Source>
+      <Name>gobbler</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Users\Tim\Documents\Visual Studio 2010\Projects\TomatoJoe\TomatoJoe\TomatoJoe\bin\x86\Debug\Content\gobbler.xnb</Output>
+      <Time>2016-09-20T19:25:07.333732-05:00</Time>
+    </Item>
+    <Item>
+      <Source>health.bmp</Source>
+      <Name>health</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Users\Tim\Documents\Visual Studio 2010\Projects\TomatoJoe\TomatoJoe\TomatoJoe\bin\x86\Debug\Content\health.xnb</Output>
+      <Time>2016-09-20T19:25:07.3357321-05:00</Time>
+    </Item>
+    <Item>
+      <Source>item.bmp</Source>
+      <Name>item</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Users\Tim\Documents\Visual Studio 2010\Projects\TomatoJoe\TomatoJoe\TomatoJoe\bin\x86\Debug\Content\item.xnb</Output>
+      <Time>2016-09-20T19:25:07.3367321-05:00</Time>
+    </Item>
+    <Item>
+      <Source>joe-old.bmp</Source>
+      <Name>joe-old</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Users\Tim\Documents\Visual Studio 2010\Projects\TomatoJoe\TomatoJoe\TomatoJoe\bin\x86\Debug\Content\joe-old.xnb</Output>
+      <Time>2016-09-20T19:25:07.3397323-05:00</Time>
+    </Item>
+    <Item>
+      <Source>joe.bmp</Source>
+      <Name>joe</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Users\Tim\Documents\Visual Studio 2010\Projects\TomatoJoe\TomatoJoe\TomatoJoe\bin\x86\Debug\Content\joe.xnb</Output>
+      <Time>2016-09-20T19:25:07.3377322-05:00</Time>
+    </Item>
+    <Item>
+      <Source>land.bmp</Source>
+      <Name>land</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Users\Tim\Documents\Visual Studio 2010\Projects\TomatoJoe\TomatoJoe\TomatoJoe\bin\x86\Debug\Content\land.xnb</Output>
+      <Time>2016-09-20T19:25:07.3407324-05:00</Time>
+    </Item>
+    <Item>
+      <Source>level.bmp</Source>
+      <Name>level</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Users\Tim\Documents\Visual Studio 2010\Projects\TomatoJoe\TomatoJoe\TomatoJoe\bin\x86\Debug\Content\level.xnb</Output>
+      <Time>2016-09-20T19:25:07.3417324-05:00</Time>
+    </Item>
+    <Item>
+      <Source>lives.bmp</Source>
+      <Name>lives</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Users\Tim\Documents\Visual Studio 2010\Projects\TomatoJoe\TomatoJoe\TomatoJoe\bin\x86\Debug\Content\lives.xnb</Output>
+      <Time>2016-09-20T19:25:07.3427325-05:00</Time>
+    </Item>
+    <Item>
+      <Source>numbers.bmp</Source>
+      <Name>numbers</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Users\Tim\Documents\Visual Studio 2010\Projects\TomatoJoe\TomatoJoe\TomatoJoe\bin\x86\Debug\Content\numbers.xnb</Output>
+      <Time>2016-09-20T19:25:07.3437325-05:00</Time>
+    </Item>
+    <Item>
+      <Source>rotten_egg_greg.bmp</Source>
+      <Name>rotten_egg_greg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Users\Tim\Documents\Visual Studio 2010\Projects\TomatoJoe\TomatoJoe\TomatoJoe\bin\x86\Debug\Content\rotten_egg_greg.xnb</Output>
+      <Time>2016-09-20T19:25:07.3447326-05:00</Time>
+    </Item>
+    <Item>
+      <Source>tomato.bmp</Source>
+      <Name>tomato</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Users\Tim\Documents\Visual Studio 2010\Projects\TomatoJoe\TomatoJoe\TomatoJoe\bin\x86\Debug\Content\tomato.xnb</Output>
+      <Time>2016-09-20T19:25:07.3477328-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>G:\Users\Tim\Documents\Visual Studio 2010\Projects\TomatoJoe\TomatoJoe\TomatoJoeContent\</RootDirectory>
+      <LoggerRootDirectory>G:\Users\Tim\Documents\Visual Studio 2010\Projects\TomatoJoe\TomatoJoe\TomatoJoe\</LoggerRootDirectory>
+      <IntermediateDirectory>G:\Users\Tim\Documents\Visual Studio 2010\Projects\TomatoJoe\TomatoJoe\TomatoJoeContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>G:\Users\Tim\Documents\Visual Studio 2010\Projects\TomatoJoe\TomatoJoe\TomatoJoe\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-02-28T18:36:31.7598811-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
